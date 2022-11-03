@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+{
+    "awablack.betterhttpio.name": "HTTP IO +",
+    "awablack.betterhttpio.description": "Better HTTP IO in ClipCC.",
+    "awablack.betterhttpio.category": "HTTP IO +",
+    "awablack.betterhttpio.get": "GET [VALUE]",
+    "awablack.betterhttpio.post": "POST [VALUE2] [VALUE]",
+    "awablack.betterhttpio.put": "PUT [VALUE2]  [VALUE]",
+    "awablack.betterhttpio.ohterReq": "[TYPE][VALUE]",
+    "awablack.betterhttpio.ohterReq.type.menu.HEAD": "HEAD",
+    "awablack.betterhttpio.ohterReq.type.menu.OPTIONS": "OPTIONS",
+    "awablack.betterhttpio.ohterReq.type.menu.DELETE": "DELETE",
+    "awablack.betterhttpio.httpCode": "Last Requested HTTP Code",
+    "awablack.betterhttpio.networkError": "Last Requested Network Error?",
+    "awablack.betterhttpio.setTimeout": "Set Timeout to [VALUE] ms",
+    "awablack.betterhttpio.timeout": "Timeout"
+}
+=======
+>>>>>>> 3a143c1 (fix: 添加编译完成的 ccx 文件)
+{
+    "awablack.httpio_plus.name": "HTTP IO Plus",
+    "awablack.httpio_plus.description": "HTTP IO Plus",
+    "awablack.httpio_plus.category": "HTTP IO Plus",
+    "awablack.httpio_plus.get": "GET [VALUE]",
+    "awablack.httpio_plus.post": "POST [VALUE2] [VALUE]",
+    "awablack.httpio_plus.put": "PUT [VALUE2]  [VALUE]",
+    "awablack.httpio_plus.ohterReq": "[TYPE][VALUE]",
+    "awablack.httpio_plus.ohterReq.type.menu.HEAD": "HEAD",
+    "awablack.httpio_plus.ohterReq.type.menu.OPTIONS": "OPTIONS",
+    "awablack.httpio_plus.ohterReq.type.menu.DELETE": "DELETE",
+    "awablack.httpio_plus.httpCode": "Last Requested HTTP Code",
+    "awablack.httpio_plus.networkError": "Last Requested Network Error?",
+    "awablack.httpio_plus.setTimeout": "Set Timeout to [VALUE] ms",
+    "awablack.httpio_plus.timeout": "Timeout"
+}
+<<<<<<< HEAD
+=======
+>>>>>>> 375e409 (fix: 现在请求不管 HTTP Code 是否为 200 (或网络错误) 都会返回数据了 (网络错误返回 [HTTP IO Plus] Network Error))
+>>>>>>> 3a143c1 (fix: 添加编译完成的 ccx 文件)

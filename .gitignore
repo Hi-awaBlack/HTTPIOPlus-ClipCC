@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Modules
+node_modules/
+
+# Yarn
+.yarn-integrity
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# Develop
+<<<<<<< HEAD
+dist
+=======
+<<<<<<< HEAD
+=======
+dist
+>>>>>>> 375e409 (fix: 现在请求不管 HTTP Code 是否为 200 (或网络错误) 都会返回数据了 (网络错误返回 [HTTP IO Plus] Network Error))
+>>>>>>> 3a143c1 (fix: 添加编译完成的 ccx 文件)
+build

@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+{
+    "awablack.betterhttpio.name": "HTTP IO +",
+    "awablack.betterhttpio.description": "在 ClipCC 中实现更好的 HTTP IO。",
+    "awablack.betterhttpio.category": "HTTP IO +",
+    "awablack.betterhttpio.get": "发送 GET 请求到 [VALUE]",
+    "awablack.betterhttpio.post": "以 POST 请求发送 [VALUE2] 到[VALUE]",
+    "awablack.betterhttpio.put": "以 PUT 请求发送 [VALUE2] 到 [VALUE]",
+    "awablack.betterhttpio.ohterReq": "发送 [TYPE] 请求到 [VALUE]",
+    "awablack.betterhttpio.ohterReq.type.menu.HEAD": "HEAD",
+    "awablack.betterhttpio.ohterReq.type.menu.OPTIONS": "OPTIONS",
+    "awablack.betterhttpio.ohterReq.type.menu.DELETE": "DELETE",
+    "awablack.betterhttpio.httpCode": "上一个请求的 HTTP 状态码",
+    "awablack.betterhttpio.networkError": "上一个请求是否发生网络错误？",
+    "awablack.betterhttpio.setTimeout": "设置请求超时时间为 [VALUE] 毫秒",
+    "awablack.betterhttpio.timeout": "请求超时时间"
+}
+=======
+>>>>>>> 3a143c1 (fix: 添加编译完成的 ccx 文件)
+{
+    "awablack.httpio_plus.name": "HTTP IO Plus",
+    "awablack.httpio_plus.description": "HTTP IO Plus",
+    "awablack.httpio_plus.category": "HTTP IO Plus",
+    "awablack.httpio_plus.get": "发送 GET 请求到 [VALUE]",
+    "awablack.httpio_plus.post": "以 POST 请求发送 [VALUE2] 到[VALUE]",
+    "awablack.httpio_plus.put": "以 PUT 请求发送 [VALUE2] 到 [VALUE]",
+    "awablack.httpio_plus.ohterReq": "发送 [TYPE] 请求到 [VALUE]",
+    "awablack.httpio_plus.ohterReq.type.menu.HEAD": "HEAD",
+    "awablack.httpio_plus.ohterReq.type.menu.OPTIONS": "OPTIONS",
+    "awablack.httpio_plus.ohterReq.type.menu.DELETE": "DELETE",
+    "awablack.httpio_plus.httpCode": "上一个请求的 HTTP 状态码",
+    "awablack.httpio_plus.networkError": "上一个请求是否发生网络错误？",
+    "awablack.httpio_plus.setTimeout": "设置请求超时时间为 [VALUE] 毫秒",
+    "awablack.httpio_plus.timeout": "请求超时时间"
+}
+<<<<<<< HEAD
+=======
+>>>>>>> 375e409 (fix: 现在请求不管 HTTP Code 是否为 200 (或网络错误) 都会返回数据了 (网络错误返回 [HTTP IO Plus] Network Error))
+>>>>>>> 3a143c1 (fix: 添加编译完成的 ccx 文件)
